@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'xpcd_cache_util' target in the 'xpcd_cache_util' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
